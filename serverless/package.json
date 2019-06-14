@@ -1,5 +1,5 @@
 {
-  "name": "aws-lambda-test",
+  "name": "serverless-lambda-test",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Valuemotive Oy",
