@@ -1,7 +1,5 @@
 provider "aws" {
-  region     = "eu-west-1"
-  access_key = "AKIAWJPMNBJ6DWTEDLQE"
-  secret_key = "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"
+  region = "eu-west-1"
 }
 
 resource "aws_iam_role" "lambda_exec_role" {
