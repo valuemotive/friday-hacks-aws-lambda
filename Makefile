@@ -2,7 +2,7 @@ help:
 	@echo 'Deploy your first AWS Lambda function                               '
 	@echo '                                                                    '
 	@echo 'Usage:                                                              '
-	@echo '   make deps-maocs         install base deps                        '
+	@echo '   make deps-macos         install base deps                        '
 	@echo '   make init               initialize terraform                     '
 	@echo '   make build              package your function for deployment     '
 	@echo '   make deploy             deploy the function to AWS               '
